@@ -40,7 +40,7 @@ ul li::before {
   content: "> ";
   font-size: 0.8em;
   display: inline-block;
-  margin-right: 0.5em;
+  margin-right: 0.8em;
 }
 
 li {
